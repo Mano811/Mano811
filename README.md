@@ -1,6 +1,6 @@
 # Manobalaji's GitHub Profile
 
-Welcome to my GitHub profile! I'm Manobalaji, a passionate **Sr. SRE/DevOps Engineer** with a strong focus on cloud-native technologies, automation, and continuous improvement. My journey in technology has been driven by a desire to build scalable and resilient infrastructures while ensuring seamless application delivery.
+Welcome to my GitHub profile! I'm Manobalaji, a passionate **Sr. SRE/DevOps Engineer** with around **9 years of experience** in cloud-native technologies, automation, and continuous improvement. My journey in technology has been driven by a desire to build scalable and resilient infrastructures while ensuring seamless application delivery.
 
 ## 🚀 About Me
 
@@ -58,4 +58,13 @@ I am deeply interested in:
 
 - **Cloud Computing**: Exploring new cloud services and architectures.
 - **Open Source Contributions**: Engaging with the community to share knowledge and improve technologies.
-- **Automation & Scripting**: Continu
+- **Automation & Scripting**: Continuously finding ways to automate repetitive tasks to enhance productivity.
+  
+## 📫 Connect with Me
+
+Feel free to reach out! You can find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/manobalaji)
+- Email: [manohunter811@gmail.com](mailto:manohunter811@gmail.com)
+
+Thank you for visiting my profile! Let's connect and collaborate on exciting projects! 🚀
