@@ -1,4 +1,4 @@
-# Manobalaji's GitHub Profile
+# Hi there! 👋
 
 Welcome to my GitHub profile! I'm Manobalaji, a passionate **Sr. SRE/DevOps Engineer** with around **9 years of experience** in cloud-native technologies, automation, and continuous improvement. My journey in technology has been driven by a desire to build scalable and resilient infrastructures while ensuring seamless application delivery.
 
